@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+prophet; python_version>='3.8' or fbprophet
+optuna
+matplotlib
